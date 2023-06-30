@@ -69,9 +69,9 @@ input.equal{
 }
 
 .btn input.allClear {
-    color: tomato;
+    color: #ff3300;
 }
 
 .btn input.delete {
-    color: orange;
+    color: tomato;
 }
